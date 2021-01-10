@@ -1,2 +1,2 @@
-# exbrhb
+# Exbrhb
 Program to assist training
