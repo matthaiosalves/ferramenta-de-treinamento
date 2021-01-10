@@ -6,6 +6,6 @@ Conduct your training dynamically and faster.
 
 # Get Started
 
-[![Software](http://img.youtube.com/vi/2jmM95mz2js/0.jpg)](http://www.youtube.com/watch?v=2jmM95mz2js "Software")
+[![Software Preview](http://img.youtube.com/vi/-Ud3bqUJOpE/0.jpg)](http://www.youtube.com/watch?v=-Ud3bqUJOpE "Software Preview")
 
 ##comments: To make the program pause, just put a # in front of the phrase you want to pause.
