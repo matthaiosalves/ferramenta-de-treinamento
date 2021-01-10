@@ -1,3 +1,3 @@
 # Exbrhb
 Program to assist training
-<img src="/exbrhb/Capturar.png" alt="My cool logo"/>
+![img](http://i.imgur.com/yourfilename.png)
